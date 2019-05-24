@@ -38,17 +38,21 @@ Skills
   * Competitive Data Science
 * Python Development
 
+
 Publications
 ======
-  <ul></ul>
+
   
-Talks
+
+Projects
 ======
-  <ul></ul>
+
   
+
 Teaching
 ======
-  <ul>Mentor for the Deep Learning Quark Summer Technical Project 2019.</ul>
+* Mentor for the Deep Learning Quark Summer Technical Project 2019
+ 
   
 Service and leadership
 ======
