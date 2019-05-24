@@ -18,13 +18,13 @@ Work experience
 ======
 
 * Jan-Mar 2019: Remote Data Science Intern
-  * CSIR-CDRI (Central Drug Research Institute, Lucknow India.
+  * CSIR-CDRI (Central Drug Research Institute, Lucknow India)
   * Duties included: Text mining for extracting information on HIV-AIDS in India, studying various Machine Learning based approaches for Brain-Machine Interface.
   * Supervisor: Professor Sukant Khurana
 
 * May-July 2019: Summer Intern
   * Indian Institute of Technology Bombay
-  * Duties included: Research & Deployment related tasks on Target Extraction & Context based sentiment analysis on natural language.
+  * Duties included: Research & Development related tasks on Target Extraction & Context based sentiment analysis on natural language.
   * Supervisor: Professor Ganesh Ramakrishnan, Ayush Maheshwari
 
 
