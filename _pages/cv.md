@@ -1,6 +1,6 @@
 ---
-layout: default
-title: "CV"
+layout: splash
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
