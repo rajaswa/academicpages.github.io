@@ -1,6 +1,7 @@
 ---
 title: 'Lexical Chains'
 date: 2019-06-01
+excerpt: "Traditional NLP for text! !<br/> <img src='https://i.imgur.com/KZbfa3w.png'>"
 permalink: /posts/lexical-chains-blog-post-1/
 tags:
   - Topic Modelling
@@ -17,6 +18,7 @@ Lexical chains are connections between semantically related words & phrases in t
 * Chains with only one item may exist.
 * Dense chains may be linked together to generate broader topics.
 
+![blog1](https://i.imgur.com/KZbfa3w.png)
 
 
 ### Candidate Lexical Items

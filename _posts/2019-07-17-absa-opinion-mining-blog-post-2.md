@@ -1,7 +1,7 @@
 ---
 title: 'Developing data-domain independent opinion mining and aspect based sentiment analysis model in NLP'
 date: 2019-07-17
-excerpt: "Say goodbye to text-data domain bias !<br/> <img src='https://github.com/rajaswa/rajaswa.github.io/blob/master/images/blog2.png'>"
+excerpt: "Say goodbye to text-data domain bias !<br/> <img src='https://i.imgur.com/VVSxhpM.png'>"
 permalink: /posts/absa-opinion-mining-blog-post-2/
 tags:
   - Natural Language Processing
@@ -9,7 +9,7 @@ tags:
   - Bias in ML
 ---
 
-![alt text](https://github.com/rajaswa/rajaswa.github.io/blob/master/images/blog2.png)
+![blog2](https://i.imgur.com/VVSxhpM.png)
 
 The issue of bias in Machine Learning is well known. The inability of the learning based models to perform on domains different than that of the training data can be really frustrating. Opinion-mining is one of the actively explored tasks in NLP, both in industry and academia. It has endless uses in social media analysis, user-reviews analysis, large scale sentiment analysis, aspect based sentiment analysis etc. The problem of training data-domain dependence is also observed in opinion mining. Let's see how we can eliminate this problem with respect to this particular task.
 
