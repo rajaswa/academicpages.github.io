@@ -1,7 +1,7 @@
 ---
 title: 'Lexical Chains'
 date: 2019-06-01
-permalink: /posts/2019/06/blog-post-1/
+permalink: /posts/lexical-chains-blog-post-1/
 tags:
   - Topic Modelling
   - Natural Language Processing

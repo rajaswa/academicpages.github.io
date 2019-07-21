@@ -2,7 +2,7 @@
 title: 'Developing data-domain independent opinion mining and aspect based sentiment analysis model in NLP'
 date: 2019-07-17
 excerpt: "Say goodbye to text-data domain bias !<br/> <img src='https://github.com/rajaswa/rajaswa.github.io/blob/master/images/blog2.png'>"
-permalink: /posts/2019/07/blog-post-2/
+permalink: /posts/absa-opinion-mining-blog-post-2/
 tags:
   - Natural Language Processing
   - Sentiment Analysis
