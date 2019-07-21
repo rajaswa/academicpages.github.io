@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "CV"
 permalink: /cv/
 author_profile: true
