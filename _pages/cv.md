@@ -30,7 +30,7 @@ Work experience
 
 
   
-Skills
+Interests
 ======
 * Machine Learning
   * Natural Language Processing & Information Retrieval
@@ -38,15 +38,22 @@ Skills
   * Competitive Data Science
 * Python Development
 * Technical Blogging
+  * [medium](https://medium.com/@rajp4480)
+  * [academic blogs](https://rajaswa.github.io//year-archive/)
 
 
-Publications
-======
-
-  
 
 Projects
 ======
+* Twitter Bot for Disaster Management 
+  * [code](https://github.com/rajaswa/Disaster-Management-)
+  * [dataset](http://crisisnlp.qcri.org/)
+  * [video](https://youtu.be/O6h8h0FRzZU)
+* Entity Resolution Flask Based Web Application
+  * [code](https://github.com/rajaswa/entity-resolution-interface)
+  * [video](https://youtu.be/BrGKgEjk4PE)
+* Indian News Website Scraper
+  * [code](https://github.com/rajaswa/web-scraper-toi)
 
   
 
@@ -57,4 +64,4 @@ Teaching
   
 Service and leadership
 ======
-* [Core member at the Society for Artificial Intelligence & Deep Learning](http://www.saidl.in/)
+* Core member at the [Society for Artificial Intelligence & Deep Learning](http://www.saidl.in/)
