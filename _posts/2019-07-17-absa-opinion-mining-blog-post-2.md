@@ -41,13 +41,13 @@ This pipeline will provide very good results for opinion-mining or aspect based 
 Using the [POS Tagger](https://nlp.stanford.edu/software/tagger.html), [Dependency Parser](https://nlp.stanford.edu/software/nndep.html) and [Co-reference resolution tool](https://stanfordnlp.github.io/CoreNLP/coref.html) from the [Stanford CORENLP-toolkit](https://stanfordnlp.github.io/CoreNLP/), these types of results can be obtained :
 
 | Text  | Entity | Opinion-word |
-| ------------- | ------------- | -------------
+| ------------- | ------------- | -------------|
 | 'IPL 2019: MS Dhoni fined after fierce on-field argument with umpires in tense CSK chase'  | 'argument'  | 'fierce', 'on-field' |
 | 'IPL 2019: MS Dhoni fined after fierce on-field argument with umpires in tense CSK chase' | 'csk-chase'  | 'tense' |
 
 ## The Python code
 
-```
+```python
 #Imports
 
 from stanfordcorenlp import StanfordCoreNLP
@@ -59,7 +59,7 @@ nltk.download('vader_lexicon')
 sid = SentimentIntensityAnalyzer()
 ```
 
-```
+```python
 #Concatenating two consecutive noun entities
 
 def pre_process(doc):
@@ -84,7 +84,7 @@ def pre_process(doc):
   return new_doc
 ```
 
-```
+```python
 #co-reference resolution 
 
 def coref(doc):
@@ -102,7 +102,7 @@ def coref(doc):
 
 ```
 
-```
+```python
 #Getting opinion pairs
 
 def get_opinion_pairs(doc, polar_threshold):
@@ -161,7 +161,7 @@ def get_opinion_pairs(doc, polar_threshold):
   return final_opinion_pairs
 ```
 
-```
+```python
 opinion_pairs = get_opinion_pairs("Sample Text")
 ```
 

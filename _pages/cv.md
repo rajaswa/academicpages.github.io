@@ -29,7 +29,7 @@ Work experience
 
 
 
-  
+
 Interests
 ======
 * Machine Learning
@@ -60,8 +60,9 @@ Projects
 Teaching
 ======
 * Mentor for the Deep Learning [Quark Summer Technical Project 2019](https://sites.google.com/view/qstp19/home)
- 
+
   
 Service and leadership
 ======
-* Core member at the [Society for Artificial Intelligence & Deep Learning](http://www.saidl.in/)
+* Core member at the [Society for Artificial Intelligence & Deep Learning](http://www.sforaidl.github.io/)
+
