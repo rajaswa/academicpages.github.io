@@ -6,7 +6,7 @@ permalink: /posts/absa-opinion-mining-blog-post-2/
 tags:
   - Natural Language Processing
   - Sentiment Analysis
-  - Bias in ML
+  - Bias
 ---
 
 ![blog2](https://i.imgur.com/VVSxhpM.png)
