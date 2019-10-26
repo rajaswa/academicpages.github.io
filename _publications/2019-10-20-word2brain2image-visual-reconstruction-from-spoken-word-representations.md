@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2019-10-20-word2brain2image-visual-reconstruction-from-spoken-word-representations
 excerpt: 'Psycholinguistics; Spoken Word Processing; Generative Modelling'
 date: 2019-10-20
-venue: ' Sixth Annual Conference for Cognitive Sciences ACCS'
+venue: 'Sixth Annual Conference for Cognitive Sciences ACCS'
 paperurl: 'http://accs2019.blogspot.com/#'
-citation: 'Ajay S, Rajaswa P, Veeky B. (2019). &quot;Paper Title Number 1.&quot; <i>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</i>.'
+citation: 'Ajay S, Rajaswa P, Veeky B. (2019). &quot;Word2Brain2Image: Visual Reconstruction from Spoken Word Representations.&quot; <i>Sixth Annual Conference for Cognitive Sciences ACCS</i>.'
 
 ---
 
