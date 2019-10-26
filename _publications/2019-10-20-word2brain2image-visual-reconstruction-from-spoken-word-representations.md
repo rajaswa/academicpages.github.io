@@ -2,11 +2,11 @@
 title: "Word2Brain2Image: Visual Reconstruction from Spoken Word Representations"
 collection: publications
 permalink: /publication/2019-10-20-word2brain2image-visual-reconstruction-from-spoken-word-representations
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Psycholinguistics; Spoken Word Processing; Generative Modelling'
 date: 2019-10-20
-venue: ' Sixth Annual Conference for Cognitive Sciences ACCS 2019'
+venue: ' Sixth Annual Conference for Cognitive Sciences ACCS'
 paperurl: 'http://accs2019.blogspot.com/#'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Ajay S, Rajaswa P, Veeky B. (2019). &quot;Paper Title Number 1.&quot; <i>Word2Brain2Image: Visual Reconstruction from Spoken Word Representations</i>.'
 
 ---
 
