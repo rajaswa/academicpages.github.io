@@ -4,13 +4,11 @@ collection: publications
 permalink: /publication/2019-10-20-citta-a-lite-semantic-recommendation-framework-for-digital-libraries
 excerpt: 'Semantic Search; Contextual Word Embeddings; Recommendation System'
 date: 2019-10-20
-venue: 'NDLI-UNESCO International Symposium of on Knowledge Engineering for Digital Library Design (KEDL)'
+venue: 'NDLI-UNESCO International Symposium on Knowledge Engineering for Digital Library Design (KEDL)'
 paperurl: 'http://kedl2019.ndl.gov.in/'
 citation: 'Rajaswa P, Pranali S, Siddhant M. (2019). &quot;Citta: A Lite Semantic Recommendation Framework for Digital Libraries.&quot; <i>International Symposium of on Knowledge Engineering for Digital Library Design (KEDL)</i>.'
 
 ---
-
-***NOTE: This work is currently under review at the KEDL 2019 Symposium***
 
 Most of the recommendation and search frameworks in Digital Libraries follow a keyword-based approach to find similar content with respect to the genre, author, publication time and subject. These hard-match keyword-based methods usually fail to capture the semantic aspects of the user’s query and often lead to a misleading set of search results. Such approaches also limit the user’s literature exploration to the specific set of extracted keywords from the query.
 Recent developments in deep learning based natural language models like BERT (J Devlin et al) and ELMo (ME Peters et al) have made it possible to map any given piece of text into its contextual word embedding space. Such word embeddings are rich in contextual semantic knowledge of the text. Recent works in Semantic Search Frameworks like bert-as-service (Xiao & Han) have successfully used the embeddings from these language models to find the best searches using cosine-similarity in the embedding space between the user query and documents in the database. The embeddings from these models are mapped into a very high-dimensional vector space and demand a lot of computation for operations as simple as cosine-similarity matching.
@@ -19,5 +17,5 @@ In this work, we propose a compute efficient and content-sentiment aware semanti
 We provide the results of our framework on the CMU Book Summary Dataset (D Bamman & N Smith 2013) which has a total of 16,559 book entries with their plot summaries retrieved from Wikipedia. We evaluate the performance of our framework with the help of a Python-Flask based GUI, taking input from over 25 users over their satisfaction from the recommendations provided by the framework.
 The first step in the framework involves taking text-input as a query from the user, followed by the extraction of Noun-Phrases using TextBlob-NLTK (Python) and Sentiment polarity using VADER-NLTK (Python) from the query. The framework then uses a heuristic (noun-phrase based content similarity score normalized by query & document text lengths and the absolute difference between the sentiments of query and document) for ranking the documents according to content-similarity & sentiment. The framework then considers the top-n ranked documents for a semantic recommendation, passing forward only the necessary documents to save compute using this content-sentiment aware heuristic. The top-n documents are then mapped into a 768 dimension contextual word embedding space using the pre-trained BERT uncased model. This is followed by a Euclidean distance-based k-means clustering over the embeddings. The cluster centroids are ranked by their cosine similarity with the query embedding. The top-ranked document cluster is then finally given out as the final set of recommendations for the user.
 
-[Submitted as a poster at the International Symposium of on Knowledge Engineering for Digital Library Design (KEDL 2019)](http://kedl2019.ndl.gov.in/)
+[Submitted as a poster at the International Symposium on Knowledge Engineering for Digital Library Design (KEDL 2019)](http://kedl2019.ndl.gov.in/)
 
