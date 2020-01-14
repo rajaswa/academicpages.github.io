@@ -6,7 +6,7 @@ excerpt: 'Semantic Search; Contextual Word Embeddings; Recommendation System'
 date: 2019-10-20
 venue: 'NDLI-UNESCO International Symposium on Knowledge Engineering for Digital Library Design (KEDL)'
 paperurl: 'http://kedl2019.ndl.gov.in/'
-citation: 'Rajaswa P, Pranali S, Siddhant M. (2019). &quot;Citta: A Lite Semantic Recommendation Framework for Digital Libraries.&quot; <i>International Symposium of on Knowledge Engineering for Digital Library Design (KEDL)</i>.'
+citation: 'Rajaswa P, Pranali S, Siddhant M. (2019). &quot;Citta: A Lite Semantic Recommendation Framework for Digital Libraries.&quot; <i>International Symposium on Knowledge Engineering for Digital Library Design (KEDL)</i>.'
 
 ---
 
