@@ -7,13 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-# Research
-
 My research interests focus on bridging the gap between biological and computational models of natural language learning. This involves inspecting biological plausibility of the existing language models for various tasks, behavioural modelling of language acquisition and building robust computational models of language.
 
 
 
-Currently, I am pursuing my Bachelor's Thesis at [IIIT Delhi] under the guidance of Prof. [Rajiv Ratn Shah] on  Speech Processing. I am actively seeking collaborations and research interns for currently active projects on  Computational Psycholinguistics and Neurolinguistics. 
+Currently, I am pursuing my Bachelor's Thesis at [IIIT Delhi](https://www.iiitd.ac.in/) under the guidance of Prof. [Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) on  Speech Processing. I am actively seeking collaborations and research interns for currently active projects on Computational Psycholinguistics and Neurolinguistics. 
 
 
 
@@ -29,5 +27,5 @@ Currently, I am pursuing my Bachelor's Thesis at [IIIT Delhi] under the guidance
 
 ### Posters
 
-
-
+* *Ajay Subramanian*\*, ***Rajaswa* *Patil*\***, *Veeky Baths. (2019)*. **Word2Brain2Image: Visual Reconstruction from Spoken Word Representations** [ACCS 2019] [[pdf](https://rajaswa.github.io/files/accs_poster.pdf)]
+* ***Rajaswa* *Patil*\***, *Siddhant Mahurkar. (2019)*. **Citta: A Lite Semantic Recommendation Framework for Digital Libraries** [Best Student Poster Award, KEDL 2019] [[pdf](https://rajaswa.github.io/files/kedl_poster.pdf)]
