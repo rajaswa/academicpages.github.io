@@ -1,3 +1,12 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+{% include base_path %}
+
 # Research
 
 My research interests focus on bridging the gap between biological and computational models of natural language learning. This involves inspecting biological plausibility of the existing language models for various tasks, behavioural modelling of language acquisition and building robust computational models of language.
