@@ -7,7 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-My research interests focus on bridging the gap between biological and computational models of natural language processing. This involves inspecting biological plausibility of the existing language models for various tasks, behavioural modelling of language learning & understanding and building robust computational models of language.
+<img align="right" src="../images/cte_talk.jpg" alt="research talk" style="zoom:25%;" />My research interests focus on bridging the gap between biological and computational models of natural language processing. This involves inspecting biological plausibility of the existing language models for various tasks, behavioural modelling of language learning & understanding and building robust computational models of language.
+
+I am also passively following the following topics:
+
+* *Adversarial Learning in Natural Language Processing*
+* *Bias in NLP models*
+* *Automatic Scoring of Text and Speech Quality*
+* *Multimodality in Language Learning*
 
 
 

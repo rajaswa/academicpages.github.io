@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-<img align="right" src="../images/bits_library.jpg" alt="cover" style="zoom:25%;" />
+<img align="top" src="../images/tip_close.jpg" alt="cover" style="zoom:50%;" />
+
+
+
 I am an engineering undergrad at **[BITS Pilani Goa Campus](https://www.bits-pilani.ac.in/Goa/)** and am pursuing a major in *Electrical & Electronics engineering*. My primary research areas of interest include *Natural Language Processing*, *Machine Learning*, *Cognitive Neuroscience* & *Psycholinguistics*. I am extensively exploring the domains of **Natural Language Understanding**, **Information Retrieval**, **Discourse**, **Causal Reasoning** & **Language Acquisition**.
-
-
 
 
 
