@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Rajaswa Patil"
   avatar           : "profile.jpg"
-  bio              : "Exploring Natural Language Processing, Natural Language Understanding, Cognitive Science, Information Retrieval & AI for Social Systems"
+  bio              : "Exploring Natural Language Processing, Cognitive Neuroscience, Information Retrieval & AI for Social Systems"
   location         : "Goa, India"
-  employer         : "MIDAS-IIITD"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=79uJMXsAAAAJ&view_op=list_works&gmla=AJsN-F5mEQ9xEKoFixJx4T-jCX4YYxXxx-umhKmuAxeJtyRuCeeXQvWmr0yVq9mZY9o68Q4CK-HNltMz7nDcWLpyGQDq1g8HPw"
   email            :  "f20170334@goa.bits-pilani.ac.in"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -93,7 +93,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "rajaswa.patil"
   foursquare       :
   github           : "rajaswa"
   google_plus      :
