@@ -7,7 +7,6 @@ author_profile: true
 
 <p align="center"><img align="center" src="../images/tip_close.jpg" alt="cover" style="zoom:50%;" /></p>
 
-&nbsp;
 
 ## Courses
 

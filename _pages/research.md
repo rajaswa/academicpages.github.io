@@ -15,7 +15,6 @@ I am currently actively following these topics:
 * *Bias in NLP models*
 * *Automatic Scoring of Text and Speech Quality*
 * *Multimodality in Language Learning*
-* *Neural Discourse Models* 
 
 &nbsp;
 &nbsp;
