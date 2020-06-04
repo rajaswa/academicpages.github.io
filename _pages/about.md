@@ -12,7 +12,10 @@ I am an engineering undergrad at **[BITS Pilani Goa Campus](https://www.bits-pil
 
 
 
-Currently, I am working as a **Research Intern** at **[MIDAS-IIITD](http://midas.iiitd.edu.in/)** and working on a funded **Psycholinguistics project** at the **[Cognitive Neuroscience Lab at BITS Goa](http://bitscogneuro.com)**. I also play around with competitive Data Science and am currently a Competitions Expert at **[Kaggle](https://www.kaggle.com/rajaswa).**
+Currently, I am working as a **Research Intern** at **[MIDAS-IIITD](http://midas.iiitd.edu.in/)** and working on a funded **Psycholinguistics project** at the **[Cognitive Neuroscience Lab at BITS Goa](http://bitscogneuro.com)**. I also play around with competitive Data Science and am currently a Competitions Expert at **[Kaggle](https://www.kaggle.com/rajaswa).** I am also active in the student community: delivering guidance talks, leading research groups and mentoring projects.
+
+<p align="center"><img align="center" src="../images/tip_lt.jpg" alt="cover" style="zoom:40%;" /></p>
+
 
 Apart from the above mentioned technical interests, I also share a keen interest towards Social Sciences, Eco-criticism, Electronic Music & Table Tennis.
 
