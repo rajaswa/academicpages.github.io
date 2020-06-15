@@ -19,3 +19,6 @@ Currently, I am working as a **Research Intern** at **[MIDAS-IIITD](http://midas
 
 Apart from the above mentioned technical interests, I also share a keen interest towards Social Sciences, Eco-criticism, Electronic Music & Table Tennis.
 
+<div class='jekyll-twitter-plugin' align="center">
+    {% twitter https://twitter.com/RajaswaPatil maxwidth=500 limit=5 %}
+</div>
